@@ -1,0 +1,23 @@
+OPS445 Lab Report - System Information for running CheckLab4.py
+===============================================================
+    User login name: rrpatel51
+    Linux system name: riddhi-patel
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/rrpatel51/ops445/lab4
+    Start at: Fri Oct 11 19:30:03 2024
+===============================================================
+Prime
+(3, 4)
+True
+False
+'tuple' object does not support item assignment
+'set' object is not subscriptable
+{1, 2, 3, 4, 5, 6, 7, 8}
+{4, 5}
+{1, 2, 3, 6, 7, 8}
+dict_values(['70 The Pond Rd', 'Toronto', 'M3J3M6', 'ON'])
+dict_keys(['Address', 'City', 'Postal Code', 'Province'])
+{'Address': '70 The Pond Rd', 'City': 'Toronto', 'Postal Code': 'M3J3M6', 'Province': 'ON', 'Country': 'Canada'}
+{'Address': '70 The Pond Rd', 'City': 'Toronto', 'Postal Code': 'M3J3M6', 'Province': 'BC', 'Country': 'Canada'}
